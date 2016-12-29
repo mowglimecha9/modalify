@@ -1,3 +1,3 @@
 # modalify
 
-#get ready to get your mind blown
+#Modalify is a library that will perform a modal action on any button
